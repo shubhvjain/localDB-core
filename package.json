@@ -1,0 +1,24 @@
+{
+  "name": "localdb-core",
+  "version": "0.0.2",
+  "description": "Core APIs for localDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhvjain/localDB-core.git"
+  },
+  "keywords": [
+    "couchdb",
+    "pouchdb",
+    "local first"
+  ],
+  "author": "shubh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubhvjain/localDB-core/issues"
+  },
+  "homepage": "https://github.com/shubhvjain/localDB-core#readme"
+}
